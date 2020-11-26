@@ -73,7 +73,7 @@ CHOICE=$(dialog --clear \
 clear
 case $CHOICE in
         1)
-        	  anonradio
+            anonradio
             ;;
         2)
             gpunkradio
